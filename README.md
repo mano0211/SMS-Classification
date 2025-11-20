@@ -2,7 +2,6 @@
 A complete end-to-end spam detection system built using **Natural Language Processing (NLP)** and **Supervised Machine Learning**.  
 This project can classify **email text** or **SMS messages** as either **spam** or **ham (not spam)** using TF-IDF features and multiple ML models (Naive Bayes, Logistic Regression, SVM).
 
-![Spam Detection](https://via.placeholder.com/900x250?text=Email+%2F+SMS+Spam+Classifier)
 
 ---
 
